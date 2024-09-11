@@ -1,1 +1,1 @@
-# mcLearn-courses
+# courses-machinelearning
